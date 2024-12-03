@@ -1,0 +1,7 @@
+"","1.1","1.2","2.1","2.2","3.1","3.2"
+"2020-2021 train raw",1,1,1,1,1,1
+"2020-2021 train normalized",1,1,1,1,0.753481850254794,1
+"2020-2021 train batchCorrected",1,1,1,1,0.998871543744367,0.906766917293233
+"2022 test raw",NA,NA,NA,NA,NA,NA
+"2022 test normalized",NA,NA,NA,NA,NA,NA
+"2022 test batchCorrected",NA,NA,NA,0.587412587412588,NA,NA
